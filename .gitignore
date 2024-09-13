@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Compilação
+dist/
+build/
+
+# Dependências de desenvolvimento
+*.tgz
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Outras extensões de arquivos temporários
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ignore arquivos de teste temporários
+coverage/
+*.lcov
